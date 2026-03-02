@@ -673,6 +673,13 @@ Comentário: nem ideia do que seja engagemente. URGENTE.
 
 RESULTADOS
 
+**Sua pontuação**
+86% de acertos
+Você acertou 43 de 50 questões
+
+**Seu tempo**
+1.53 horas
+
 Módulo	                                                                            Total	        Acertos
 01 - Nova CPA - Estrutura e Dinâmica do Sistema Financeiro Nacional	                10 (questões)	10
 02 - Nova CPA - Produtos do Mercado Financeiro	                                    20 (questões)	17
